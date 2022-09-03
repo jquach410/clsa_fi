@@ -1,0 +1,42 @@
+h3 {
+  font-size:22px;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+input[type='radio']{ /* style for radio buttons */
+  width: 15px; /*Desired width*/
+  height: 34px; /*Desired height*/
+  line-height: 20px;
+  }
+  span {
+  line-height: 40px;
+    }
+    
+        
+.main-header .logo {
+  font-size: 26px;
+}
+
+.skin-blue .main-header .logo {
+  background-color: #0c8db5;
+}
+.skin-blue .main-header .logo:hover {
+  background-color: #0c8db5;
+}
+
+td { font-size: 22px }
